@@ -16,7 +16,7 @@
 
 
 <div align="center">
-    If you want to learn more about me, you can visit my social media or send me a message!
+    <h3>If you want to learn more about me, you can visit my social media or send me a message!</h3>
 </div>
 
 <!-- BADGES -->
