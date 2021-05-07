@@ -1,13 +1,4 @@
-<html>
-<head>
-<style>
-h1{
-	text-align:center;
-}
-</style>
-</head>
+<div align="center">
+    <h1>Hello there 🤙, I'm Nico Fernández</h1>
+</div>
 
-<body>
-<h1>Hola</h1>
-</body>
-</html>
