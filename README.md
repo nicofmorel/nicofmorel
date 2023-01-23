@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-    I'm a Fullstack Developer from Argentina, actually working at <a href="https://baufest.com">Baufest</a>
+    I'm a Fullstack Developer from Argentina, actually working at <a href="https://conexia.com/es/">Conexia</a>
 </div>
 
 <div align="center">
